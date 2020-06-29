@@ -8,7 +8,7 @@ This is my first repository here on GitHub.  Writing the program "Hello World" i
 
 The Python file in this repository explores the impoementation of what are called functions, written in the form:
 
-`def function(argument):`
-`    return "the processed argument as output"`
+```def function(argument):
+    return "the processed argument as output"```
     
 Functions take in an argument, process it as necessary for its use, then provides an output via the return statment.  The output can take the shape of a variable, which can point to an object.;
