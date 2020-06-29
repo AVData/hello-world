@@ -12,4 +12,4 @@ The Python file in this repository explores the impoementation of what are calle
 def function(argument):
     return "the processed argument as output"
 ```
-Functions take in an argument, process it as necessary for its use, then provides an output via the return statment.  The output can take the shape of a variable, which can point to an object.;
+Functions take in an argument, process it as necessary for its use, then provides an output via the return statment.  The output can take the shape of a variable, which can point to an object.
