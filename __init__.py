@@ -13,7 +13,8 @@ def mean(x):
     The mean for a given set of values is the sum of all of the values, devided
     by the number of values.
     '''
-    return (sum(x)/len(x))
+    mean_output = sum(x)/len(x)
+    return mean_output
 
 
 def median(x):
