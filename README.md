@@ -1,6 +1,6 @@
 # hello-world
 
-This is my first repository here on GitHub.  Writing the program "Hello World" is a bit too simple to pose any kind of challenge for a novice working with a new programming language.  One can write the following line of code to print "Hello World!"
+This was my first repository on GitHub, and I was going to simpy use the print funtion to print "Hello World!" using python, but that seems a bit too easy and straight forward.  So, I took a different approach.
 
 `print("Hello World!")`
 
